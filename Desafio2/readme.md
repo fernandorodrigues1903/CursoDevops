@@ -11,3 +11,7 @@
 -> <app_name> --> Nome para aparecer na tela
 
 -> <app_color> --> Cor no fundo (blue, green, yellow, etc...)
+
+##Para testar a execução da aplicação
+
+-> Abra o navegador e digite 127.0.0.1:808
